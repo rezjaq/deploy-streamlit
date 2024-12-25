@@ -10,7 +10,7 @@
 
 ### Step - 3
 
-- Open **streamlit.io/cloud**.
+- Open **https://streamlit.io/cloud**.
 - Log in using a Google or GitHub account.  
   ![alt text](/image/langkah-3.png)
 
@@ -35,6 +35,7 @@
 * Once selected, click **Deploy**.
 
 ### Result
+
 https://deploy-app-jzktirevwhk3fdrjynhrbd.streamlit.app/
 
 ![alt text](/image/image.png)
