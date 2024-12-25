@@ -1,37 +1,39 @@
 # deploy-streamlit
 
-### Langkah - 1
+### Step - 1
 
-- build project
+- Build the project.
 
-### Langkah - 2
+### Step - 2
 
-- git push project ke repo atau github
+- Push the project to a repository or GitHub.
 
-### Langkah - 3
+### Step - 3
 
-- buka streamlit.io/cloud
-- login dengan akun google atau github
+- Open **streamlit.io/cloud**.
+- Log in using a Google or GitHub account.  
   ![alt text](/image/langkah-3.png)
 
-* kalo sudah bisa login lanjut langkah selanjutnya
+* Once logged in, proceed to the next step.
 
-### Langkah - 4
+### Step - 4
 
-- create app
+- Create a new app.
 
   ![alt text](/image/langkah-4-1.png)
 
-* clic deploy a public app from github
+* Click **Deploy a public app from GitHub**.  
   ![alt text](/image/langkah-4.png)
 
-* lalu pilih repo yang sudah dibuat dan sudah ada file project yang sudah dibuat diawal
+* Select the repository containing the project files created earlier.  
   ![alt text](/image/langkah-4-2.png)
 
-* setelah itu pada bagian main file.path pilih file yang akan di deploy sebagai file mainya
+* Then, in the **main file path** section, choose the file you want to deploy as the main file.
 
   ![alt text](/image/langkah-4-4.png)
 
-* jika sudah maka klik deploy
+* Once selected, click **Deploy**.
 
 ### Result
+
+![alt text](/image/image.png)
