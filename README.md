@@ -35,5 +35,6 @@
 * Once selected, click **Deploy**.
 
 ### Result
+https://deploy-app-jzktirevwhk3fdrjynhrbd.streamlit.app/
 
 ![alt text](/image/image.png)
